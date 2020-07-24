@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on crm, realtimeanswers, medikalid, mycms repos.
+🔭 I’m currently working on <b>crm, realtimeanswers, medikalid, mycms</b> repos.
 ###
 🌱 I’m currently learning Node, Mongo, CI-CD, testing Vue apps.
