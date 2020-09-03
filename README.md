@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on <b>crm, realtimeanswers, medikalid, mycms, hotel, obligatedxml</b> repos.
 ###
-🌱 I’m currently learning Node, Mongo, CI-CD, testing Vue apps.
+🌱 I’m currently learning <b>NodeJS, .NET, C#, MongoDB, CI-CD, testing Vue</b> apps.
