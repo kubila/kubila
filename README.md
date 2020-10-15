@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on <b>crm, realtimeanswers, medikalid, mycms, hotel, obligatedxml, greedyplants, mvc</b> repos.
 ###
-🌱 I’m currently learning <b>NodeJS, .NET, C#, MongoDB, CI-CD, testing Vue and Laravel</b> apps.
+🌱 I’m currently learning
+<b>
+  ['.NET', 'C#'], 
+  ['CI','CD'], 
+  ['testing' => ['Vue'],
+  ['testing' => 'Laravel']  
+  and sometimes NodeJS along with MongoDB
+  </b> technologies.
