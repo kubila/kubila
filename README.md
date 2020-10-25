@@ -18,9 +18,15 @@ Currently working on <b>crm, realtimeanswers, medikalid, mycms, hotel, obligated
 ###
 Learning
 <b>
-  ['.NET', 'C#'], 
-  ['CI','CD'], 
-  ['testing' => 'Vue'],
-  ['testing' => 'Laravel']  
+  .NET Core, C#, TSQL,
+  testing Vue and Laravel apps
   and sometimes NodeJS along with MongoDB.
   </b>
+  
+  <a href="https://github.com/kubila">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubila&count_private=true" />
+</a>
+<!--
+<a href="https://github.com/kubila">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubila&count_private=true" /> 
+</a>-->
