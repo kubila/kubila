@@ -18,9 +18,8 @@ Currently working on <b>crm, realtimeanswers, medikalid, mycms, hotel, obligated
 ###
 Currently learning;
 <b>
-  .NET Core, C#, TSQL,
-  testing Vue and Laravel apps
-  and sometimes NodeJS along with MongoDB.
+  .NET Core, C#, TSQL, Redis, 
+  testing Javascript(Vue,React) apps, testing Laravel apps.
   </b>
   
   Below chart doesn't include private repos, includes only the public repositories' stats, so please bear that in mind.
