@@ -1,5 +1,8 @@
-### Hi there this is kubila here, 
-A cat lover, ultra a-social, insterested in many topics, always looking forward and of course a curious learner.
+### Hi there, 
+I'm an; 
+animal lover, 
+ultra a-social(I can live in situations like not stepping outside for 6 months), 
+insterested in many topics and of course a curious learner.
 <!--
 **kubila/kubila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working on <b>crm, realtimeanswers, medikalid, mycms, hotel, obligatedxml, greedyplants, mvc</b> repos.
+Currently working on <b>crm, medikalid, mycms, advanced-laravel, rtms, sps-tsql, razor, entitled, blazor</b> repos on my free time.
 ###
 Currently learning;
 <b>
