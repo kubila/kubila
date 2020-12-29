@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working on <b>crm, medikalid, mycms, advanced-laravel, rtms, sps-tsql, razor, entitled, blazor</b> repos on my free time.
+Currently working on <b>crm, mycms, advanced-laravel, rtms, sps-tsql, razor, entitled, blazor</b> repos on my free time.
 ###
 Currently learning;
 <b>
