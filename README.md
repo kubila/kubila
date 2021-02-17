@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working on <b>crm, mycms, advanced-laravel, rtms, sps-tsql, razor, entitled, blazor</b> repos on my free time.
+Currently working on <b>crm, mycms, sps-tsql, razor, entitled, hotelapi, booky</b> repos.
 ###
 Currently learning;
 <b>
-  .NET Core, C#, TSQL, testing Laravel apps.
+  .NET Core Web API, MSSQL, Dapper.
   </b>
   Next, I will learn; testing Javascript(Vue,React), Redis, Python.
   
