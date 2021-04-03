@@ -1,7 +1,7 @@
 ### Hi there, 
 I'm an; 
 animal lover, 
-ultra a-social(I can live in situations like not stepping outside for 6 months), 
+heavy a-social, 
 insterested in many topics and of course a curious learner.
 <!--
 **kubila/kubila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working on <b>crm, mycms, bookeper, hotelapi</b> repos.
+ Hi there,
 ###
-Currently learning;
-<b>
-  Blazor, .NET Core Web API, Dapper.
+  <b>  
+   I love Full Stack Development. I like to learn new things, especially flowing around web. Hanging out with Laravel, Livewire, Redis, Blazor, .NET Core Web Api, Dapper, React, Vue on my spare time.
   </b>
-  Next, I will learn; testing Javascript(Vue,React), Redis, Python.
   
-  Below chart doesn't include private repos, includes only the public repositories' stats, so please bear that in mind.
+  Next, I will learn; testing Javascript(Vue,React), Python and a few of its machine learning libraries.
+  
+  Below chart doesn't include private repos, includes only the public repositories' stats.
   
   <a href="https://github.com/kubila">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubila&count_private=true&layout=compact&show_icons=true&theme=vue" />
