@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Hi there,
+ 
 ###
   <b>  
    I love Full Stack Development. I like to learn new things, especially flowing around web. Hanging out with Laravel, Livewire, Redis, Blazor, .NET Core Web Api, Dapper, React, Vue on my spare time.
