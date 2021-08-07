@@ -20,12 +20,14 @@ Here are some ideas to get you started:
  
 ###
   <b>  
-   I love Full Stack Development. I like to learn new things, especially flowing around web. Hanging out with Laravel, Livewire, Redis, Blazor, .NET Core Web Api, Dapper, React, Vue on my spare time.
+   I like to learn new things, especially flowing around web. Hanging out with Laravel, .NET Core, Redis, React, Vue on my spare time.
   </b>
   
-  Next, I will learn; testing Javascript(Vue,React), Python and a few of its machine learning libraries.
+  I will learn Python and one of its machine learning libraries next.
   
-  Below chart doesn't include private repos, includes only the public repositories' stats.
+  Below chart doesn't include private repos, includes only the public repositories' stats. 
+  
+  By the way I don't care about what i put on my public repos. I'm using public repos for learning purposes, so no need to finish them.
   
   <a href="https://github.com/kubila">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubila&count_private=true&layout=compact&show_icons=true&theme=vue" />
