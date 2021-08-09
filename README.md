@@ -1,8 +1,6 @@
 ### Hi there, 
-I'm an; 
-animal lover, 
-heavy a-social, 
-insterested in many topics and of course a curious learner.
+I'm an; animal lover,
+interested in many topics and a curious learner.
 <!--
 **kubila/kubila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
