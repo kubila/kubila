@@ -1,28 +1,26 @@
 ### Hi there, 
 I'm an; animal lover,
-interested in many topics and a curious learner.
+interested in many topics and a curious learner. 
+I like to learn new things, especially flowing around web.
 <!--
 **kubila/kubila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
  
 ###
- 
-   - I like to learn new things, especially flowing around web. Hanging out with Laravel, .NET Core, Redis, React, Vue on my spare time. 
-  
-  - 🌱 I’m currently learning Python, one of its machine learning libraries and Django will be the next objective.
-  
-  Below chart doesn't include private repos, includes only the public repositories' stats. 
+  - 🔭 I’m currently working on a CRM+ERP system(React+Laravel+MaterialUI), and a book management system(React+.NETCoreAPI+AntDesign), all outside of work.
+
+  - 😄 Pronouns: Laravel, .NET Core, C#, Redis, React, Vue.
+
+  - ⚡ Fun fact: All my contributions done outside of working hours. So that's the reason why my contribution count is low. Either my workplaces hosts Git on their local servers or not using it at all(SVN). Below chart doesn't include private repos, includes only the public repositories' stats. 
   
   By the way I don't care about what i put on my public repos. I'm using public repos for learning purposes.
   
