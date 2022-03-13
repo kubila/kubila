@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
  
 ###
+ - 🌱 I’m currently learning MongoDB, PostgreSQL and Python(Django).
+
   - 🔭 I’m currently working on a CRM+ERP system(React+Laravel+MaterialUI), and a book management system(React+.NETCoreAPI+AntDesign), all outside of work.
 
-  - 😄 Pronouns: Laravel, .NET Core, C#, Redis, React, Vue.
+  - Pronouns: Laravel, .NET Core, C#, Redis, React, Vue.
 
   - ⚡ Fun fact: All my contributions done outside of working hours. So that's the reason why my contribution count is low. Either my workplaces hosts Git on their local servers or not using it at all(SVN). Below chart doesn't include private repos, includes only the public repositories' stats. 
   
