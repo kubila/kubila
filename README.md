@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  
 ###
- - 🌱 I’m currently learning MongoDB, PostgreSQL and Python(Django).
+ - 🌱 I’m currently learning MongoDB, PostgreSQL and TypeScript.
 
   - 🔭 I’m currently working on a CRM+ERP system(React+Laravel+MaterialUI), and a book management system(React+.NETCoreAPI+AntDesign), all outside of work.
 
