@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
  
 ###
- - 🌱 I’m currently learning MongoDB, AngularJS. I intend to complete whole .Net stack :)
+ - 🌱 I’m currently learning MongoDB, React Native. I'll focus on React from now on, no need for another JS framework.
 
   - 🔭 I'll be on vacation this summer, so contribution count will be low.
 
