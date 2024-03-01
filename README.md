@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 -->
  
 ###
- - 🌱 I’m currently learning React Native. I'll focus on React from now on, no need for another JS framework.
+ - 🌱 I’m currently learning React Native and C++.
+ 
+ - ⚡ I'm interested in Rust and Python, with an eye on the Neural networks.
+ 
+ - 😄 Pronouns: .NET, C#, Redis, React, Vue.
 
-  - Pronouns: .NET Core, C#, Redis, React, Vue.
-
-  - ⚡ Fun fact: All my contributions done outside of working hours. So that's the reason why my contribution count is low. Either my workplaces host Git on their local servers or not using it at all(SVN). Below chart doesn't include private repos, includes only the public repositories' stats.
-
+ - 🤔 Fun fact: All my contributions done outside of working hours. So that's the reason why my contribution count is low. Either my workplaces host Git on their local servers or not using it at all(SVN). Below chart doesn't include private repos, includes only the public repositories' stats.
   
   By the way I don't care about what i put on my public repos. I'm using public repos for learning purposes.
-
-
   
   <a href="https://github.com/kubila">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubila&count_private=true&layout=compact&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubila&count_private=false&layout=compact&show_icons=true&theme=vue" />
 </a>
 <!--
 <a href="https://github.com/kubila">
