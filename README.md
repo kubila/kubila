@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
  
 ###
- - 🌱 I’m currently learning React Native and C++.
+ - 🌱 I’m currently learning C++.
  
  - ⚡ I'm interested in Rust and Python, with an eye on the Neural networks.
  
