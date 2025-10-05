@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 -->
  
 ###
- - 🌱 I’m currently learning C++ and Algorithmic Trading.
+ - 🌱 I’m currently learning Python and Algorithmic Trading.
  
- - ⚡ I'm interested in Rust and Python, with an eye on the Neural networks. 
- 
- - ⚡ I'm interested in Algorithmic Trading as well.
+ - ⚡ I'm interested in Rust and C++, with an eye on the Neural networks.  
 
  - ⚡ I’m currently working on a BPM solution for Compliance Management.
  
