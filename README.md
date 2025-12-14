@@ -3,8 +3,6 @@ I'm an; animal lover,
 interested in many topics and a curious learner. 
 I like to learn new things, especially flowing around web.
 <!--
-
-#I’m currently working on a CRM+ERP system(React+Laravel+MaterialUI), and a book management system(React+.NETCoreAPI+AntDesign), all outside of work.
 **kubila/kubila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,14 +13,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+ - ⚡ I’m currently working on a BPM solution for Compliance Management.
 -->
  
 ###
- - 🌱 I’m currently learning Python and Algorithmic Trading.
+ - 🌱 I’m currently learning Python(AI) and Algorithmic Trading.
  
  - ⚡ I'm interested in Rust and C++, with an eye on the Neural networks.  
-
- - ⚡ I’m currently working on a BPM solution for Compliance Management.
  
  - 😄 Pronouns: .NET, C#, Redis, React, Vue.
 
