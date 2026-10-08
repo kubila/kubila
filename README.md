@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
  - 🌱 I’m currently learning Unreal Engine, System Administration.  
  - ⚡ I'm interested in Python(ML), with an eye on the Neural networks and Linux(SA).
-  - ✨ Working on Applied AI and a BPM solution.
+  - :hourglass: Working on Applied AI, a BPM solution and a WW2 game :rocket:.
 
   Btw I'm using public repos for learning purposes.
   
