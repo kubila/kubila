@@ -1,7 +1,7 @@
 ### Hi there, 
 I'm an; animal lover,
-interested in many topics and a curious learner. 
-I like to learn new things, especially flowing around web.
+interested in many topics and a curious researcher. 
+I like to read books and learn new things, always.
 <!--
 **kubila/kubila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,19 +13,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
- - ⚡ I’m currently working on a BPM solution for Compliance Management.
 -->
  
 ###
- - 🌱 I’m currently learning Python(AI) and Algorithmic Trading.
- 
- - ⚡ I'm interested in Rust and C++, with an eye on the Neural networks.  
- 
- - 😄 Pronouns: .NET, C#, Redis, React, Vue.
+ - 🌱 I’m currently learning Unreal Engine, System Administration.  
+ - ⚡ I'm interested in Python(ML), with an eye on the Neural networks and Linux(SA).
+  - ✨ Working on Applied AI and a BPM solution.
 
- - 🤔 Fun fact: All my contributions done outside of working hours. So that's the reason why my contribution count is low. Either my workplaces host Git on their local servers or not using it at all(SVN). Below chart doesn't include private repos, includes only the public repositories' stats.
-  
-  By the way I don't care about what i put on my public repos. I'm using public repos for learning purposes.
+  Btw I'm using public repos for learning purposes.
   
   <a href="https://github.com/kubila">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubila&count_private=false&layout=compact&show_icons=true&theme=vue" />
